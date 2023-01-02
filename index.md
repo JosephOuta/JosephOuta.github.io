@@ -1,9 +1,10 @@
-
-
-
-
-
-
+\
+\
+\
+\
+\
+\
+\
 
 Hello. I’m Joseph. I am a research coordinator for the [Social Learning Lab](http://sll.stanford.edu/) with Prof. Hyowon Gweon at Stanford University. 
 
