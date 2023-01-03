@@ -1,8 +1,6 @@
 <br><br> 
 <br><br> 
 <br><br> 
-<br><br> 
-<br><br> 
 Hello. I’m Joseph. I am a research coordinator for the [Social Learning Lab](http://sll.stanford.edu/) with Prof. Hyowon Gweon at Stanford University. 
 
 I graduated from Cornell University in 2020 with a B.A. in Biology and Society. In the years following my graduation, I developed an interest in cognitive science and developmental psychology. I worked as a research assistant with Prof. Tobi Gerstenberg at the [Causality in Cognition Lab](https://cicl.stanford.edu/), Prof. Mike Frank at the [Language and Cognition Lab](https://langcog.stanford.edu/) at Stanford University and Prof. Laura Niemi at the [Applied Moral Psychology Lab](https://lauraniemi.com/) at Cornell University. I was born and raised in Nairobi, Kenya.
