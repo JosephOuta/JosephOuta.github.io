@@ -3,5 +3,5 @@ plugins:
 title: Joseph Outa
 logo: /assets/img/logo.png
 description:
-show_downloads: true
+show_downloads: false
 google_analytics:
