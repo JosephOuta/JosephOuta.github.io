@@ -4,7 +4,7 @@ email: joouta at stanford dot edu
 logo: /assets/img/logo.png
 description: research coordinator @ Stanford SLL
 show_downloads: false
-google_analytics
+# google_analytics
 favicon: true
 
 plugins:
