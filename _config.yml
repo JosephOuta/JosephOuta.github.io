@@ -65,9 +65,10 @@ news_limit: 5
 # -----------------------------------------------------------------------------
 
 # Includes & excludes
-include: [_pages, index.md, blog]
+include: [_pages, blog]
 exclude:
   - bin
+  - index.md
   - Gemfile
   - Gemfile.lock
   - vendor
