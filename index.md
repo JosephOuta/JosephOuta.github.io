@@ -4,7 +4,7 @@ title: home
 permalink: /
 ---
 
-### __Joseph Outa__
+<!-- ### __Joseph Outa__ -->
 <img class="fig" src="/images/homepage-pic.JPG" width="350">
 Hello. I’m Joseph. I am a research coordinator for the [Social Learning Lab](http://sll.stanford.edu/research.html) with Prof. Hyowon Gweon at Stanford University. 
 
