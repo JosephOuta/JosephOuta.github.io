@@ -1,14 +1,17 @@
 ---
-layout: home
-profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+layout: home_custom
+title: home
+permalink: /
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+##### __a heading__
+some text here
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+<hr class='invis'>
+##### __Bulletin__
+- **9/20xx:** some more info about something on some date
+
+
+<hr class='invis'>
+##### __About the lab__
+some info about someting
