@@ -84,6 +84,8 @@ keep_files:
 plugins:
   - jekyll-github-metadata
   - jekyll-paginate-v2
+  - jekyll-remote-theme
+
 
 # Extras
 github: [metadata]
