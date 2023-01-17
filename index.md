@@ -1,5 +1,5 @@
 ---
-layout: lab_custom
+layout: home_custom
 title: home
 permalink: /
 ---
