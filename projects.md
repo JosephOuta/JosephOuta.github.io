@@ -20,8 +20,6 @@ How does the ability to integrate multi-modal information develop in early child
 What about children? We compare their responses with predictions of four computational models: random guessing, a simple matching heuristic, visual simulation, and visual & auditory simulation. We found that random guessing was very rare. Instead, younger children's responses were more consistent with matching (choosing the hole that's closest to where the ball landed). Additionally, children’s responses were increasingly consistent with the predictions of the mental simulation models, especially between 6 to 8 years of age. This work shows how children's capacity to draw causal inferences based on visual and auditory information develops, and how computational models can help us look underneath the veil of chance performance, providing deeper and richer insights into how children think. 
 
 Outa, J., Zhou, X. J., Gweon, H., & Gerstenberg, T. (2022). Stop, children what’s that sound? Multi-modal inference through mental simulation. Proceedings of the 44th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.repository
----
-
 
 ---
 
