@@ -49,18 +49,22 @@
   // text-align: left;
   top: 55%;
   left: 50%;
+  // top: 30%;
+  // left: 30%;
   // transform: translate(-50%, -50%);
 
 }
 
-.div_wallpaper_two {
-  position: relative;
+.div_second_header {
+  position: absolute;
 }
 
 .topleft {
   position: absolute;
   top: 30%;
   left: 30%;
+  transform: translate(-30%, -30%);
+
 }
 
 // Typography
