@@ -21,9 +21,9 @@
 
 .div_wallpaper {
   width: 100%;
-  // position: relative;
-  position: absolute;
-  text-align: center;
+  position: relative;
+  // position: absolute;
+  text-align: left;
 }
 
 .img_wallpaper {
@@ -46,9 +46,10 @@
   font-family: Merriweather;
   font-size: 2vw;
   position: absolute;
-  top: 55%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  text-align: left;
+  // top: 55%;
+  // left: 50%;
+  // transform: translate(-50%, -50%);
 
 }
 
