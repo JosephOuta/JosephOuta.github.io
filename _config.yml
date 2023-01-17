@@ -65,7 +65,9 @@ news_limit: 5
 # -----------------------------------------------------------------------------
 
 # Includes & excludes
+# include: [_pages, index.md, blog]
 include: [projects.md, index.md, blog]
+
 exclude:
   - bin
   - Gemfile
