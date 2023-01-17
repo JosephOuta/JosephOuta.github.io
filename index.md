@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ### __Joseph Outa__
-<img class="fig" src="/images/battleship-bw.jpg" width="350">
+<img class="fig" src="/images/homepage-pic.JPG" width="350">
 Hello. I’m Joseph. I am a research coordinator for the [Social Learning Lab](http://sll.stanford.edu/research.html) with Prof. Hyowon Gweon at Stanford University. 
 
 I graduated from Cornell University in 2020 with a B.A. in Biology and Society. In the years following my graduation, I developed an interest in cognitive science and developmental psychology. I worked as a research assistant with Prof. Tobi Gerstenberg at the [Causality in Cognition Lab](https://cicl.stanford.edu/), Prof. Mike Frank at the [Language and Cognition Lab](http://langcog.stanford.edu/index.html) at Stanford University and Prof. Laura Niemi at the [Applied Moral Psychology Lab](https://lauraniemi.com/lab/) at Cornell University. I was born and raised in Nairobi, Kenya.
