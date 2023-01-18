@@ -6,10 +6,6 @@ nav: true
 id: 3
 ---
 
-### __Projects__
-
----
-
 ##### __Multi-modal inference through mental simulation__
 <img class="fig" src="/images/projects/plinko-kids.jpeg" width="260">
 _Authors: Joseph Outa*, Xi Jia Zhou*, Hyowon Gweon, Tobias Gerstenberg_
