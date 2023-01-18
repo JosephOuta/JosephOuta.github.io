@@ -27,21 +27,21 @@ remote_theme: lake-lab/lake-lab.github.io
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: JosephOuta # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: outa_joseph # your Twitter handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
-telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
+# github_username: JosephOuta # your GitHub user name
+# gitlab_username: # your GitLab user name
+# twitter_username: outa_joseph # your Twitter handle
+# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+# linkedin_username: # your LinkedIn user name
+# telegram_username: # your Telegram user name
+# scholar_userid: # your Google Scholar ID
+# semanticscholar_id: # your Semantic Scholar ID
+# orcid_id: # your ORCID ID
+# medium_username: # your Medium username
+# quora_username: # your Quora username
+# publons_id: # your ID on Publons
+# research_gate_profile: # your profile on ResearchGate
+# stackoverflow_id: # your stackoverflow id
+# kaggle_id: # your kaggle id
 
 
 # -----------------------------------------------------------------------------
@@ -127,7 +127,7 @@ enable_math:                false   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            false   # enables switching between light/dark modes
-enable_navbar_social:       true  # enables displaying social links in the
+enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
