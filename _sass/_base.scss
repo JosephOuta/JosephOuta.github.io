@@ -165,14 +165,6 @@ a, table.table a {
   opacity: 0.95;
 }
 
-.fixed-top {
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: auto;
-}
-
 .navbar.navbar-light {
   a {
     &:hover {

@@ -11,6 +11,7 @@
  body.fixed-top-nav {
    // Add some padding for the nav-bar.
    padding-top: 56px;
+   z-index: auto;
  }
 
  body.sticky-bottom-footer {
