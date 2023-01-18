@@ -2,8 +2,8 @@
 layout: lab_custom
 # title: research
 permalink: /research/
-nav: true
-id: 1
+nav: false
+# id: 1
 ---
 
 ### __Research__
