@@ -1,6 +1,6 @@
 ---
 layout: lab_custom
-title: research
+# title: research
 permalink: /research/
 nav: true
 id: 1

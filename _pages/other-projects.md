@@ -1,6 +1,5 @@
 ---
 layout: lab_custom
-title: projects
 permalink: /other-projects/
 # nav: true
 # id: 3
