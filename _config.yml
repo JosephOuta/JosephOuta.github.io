@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal website
 footer_text:
 
-icon: j̳o̳ # the emoji used as the favicon 
+icon: #j̳o̳ # the emoji used as the favicon 
 url: https://josephouta.github.io # the base hostname & protocol for your site
 # url: josephouta.github.io # the base hostname & protocol for your site
 # url: josephouta.com
